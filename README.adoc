@@ -2,9 +2,8 @@ image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build REA
 
 ## whoami
 
-Coffee nerd. Problem solver. Open Source Java enthusiast.
-
-Current occupation: Competence Lead & Senior Software Engineer at Klarna
+### Coffee nerd. Problem solver. Open Source Java enthusiast
+### Competence Lead & Senior Software Engineer at Klarna
 
 ## recent blog posts
 
@@ -19,5 +18,6 @@ Current occupation: Competence Lead & Senior Software Engineer at Klarna
 
 | May 1, 2020
 | http://rk13.github.io/2020/05/01/return-of-nexus4.html[Return of the Nexus 4^]
+|===
 
-Last updated: 2020-09-19T23:37:01.836Z 
+Last updated: 2020-09-19T23:42:42.966Z 
