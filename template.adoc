@@ -1,5 +1,3 @@
-image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
-
 ## whoami
 
 Coffee nerd. Problem solver. Open Source Java enthusiast
@@ -17,4 +15,4 @@ Competence Lead & Senior Software Engineer at Klarna
 </#list>
 |===
 
-Last updated: ${timestamp} 
+Last updated: ${timestamp} image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
