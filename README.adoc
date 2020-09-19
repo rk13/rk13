@@ -2,8 +2,9 @@ image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build REA
 
 ## whoami
 
-### Coffee nerd. Problem solver. Open Source Java enthusiast
-### Competence Lead & Senior Software Engineer at Klarna
+Coffee nerd. Problem solver. Open Source Java enthusiast
+
+Competence Lead & Senior Software Engineer at Klarna
 
 ## recent blog posts
 
@@ -29,4 +30,4 @@ image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build REA
 | http://rk13.github.io/2019/11/30/klarna-coderetreat.html[Coderetreat@Klarna^]
 |===
 
-Last updated: 2020-09-19T23:44:15.483Z 
+Last updated: 2020-09-19T23:49:13.005Z 
