@@ -1,4 +1,5 @@
 image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
+
 ## recent blog posts
 
 [options="autowidth",cols=2,stripes=even]
@@ -23,4 +24,4 @@ image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build REA
 | http://rk13.github.io/2019/11/30/klarna-coderetreat.html[Coderetreat@Klarna^]
 |===
 
-Last updated: 2020-09-19T23:55:48.317Z
+Last updated: 2020-09-19T23:57:05.148Z
