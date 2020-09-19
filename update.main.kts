@@ -52,7 +52,7 @@ val template = Configuration(Configuration.VERSION_2_3_29)
 
 val bio: String by lazy {
     val extractBio = { body: String? ->
-        body
+        body as String
     }
 
     val request = Request.Builder()
