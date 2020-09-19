@@ -1,11 +1,14 @@
-Last updated: 2020-09-19T23:31:39.753Z image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
+image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
+
+## whoami
 
 Coffee nerd. Problem solver. Open Source Java enthusiast.
+
 Current occupation: Competence Lead & Senior Software Engineer at Klarna
 
-## Recent blog posts
+## recent blog posts
 
-[options="autowidth",cols=3,stripes=even]
+[options="autowidth",cols=2,stripes=even]
 |===
 
 | September 10, 2020
@@ -16,3 +19,5 @@ Current occupation: Competence Lead & Senior Software Engineer at Klarna
 
 | May 1, 2020
 | http://rk13.github.io/2020/05/01/return-of-nexus4.html[Return of the Nexus 4^]
+
+Last updated: 2020-09-19T23:37:01.836Z 
