@@ -1,0 +1,14 @@
+Last updated: ${timestamp} image:https://github.com/rk13/rk13/workflows/Build%20README/badge.svg[Build README]
+
+${bio}
+
+## Recent blog posts
+
+[options="autowidth",cols=3,stripes=even]
+|===
+<#list posts as post>
+
+| ${(post.published).format('MMMM d, YYYY')}
+| ${post.link}[${post.title}^]
+| ${post.excerpt}[...]
+</#list>
