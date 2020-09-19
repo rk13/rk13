@@ -18,6 +18,15 @@ image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build REA
 
 | May 1, 2020
 | http://rk13.github.io/2020/05/01/return-of-nexus4.html[Return of the Nexus 4^]
+
+| April 5, 2020
+| http://rk13.github.io/2020/04/05/codejam.html[Google CodeJam 2020^]
+
+| February 20, 2020
+| http://rk13.github.io/2020/02/20/hashcode.html[Hashcode team competition 2020^]
+
+| November 30, 2019
+| http://rk13.github.io/2019/11/30/klarna-coderetreat.html[Coderetreat@Klarna^]
 |===
 
-Last updated: 2020-09-19T23:42:42.966Z 
+Last updated: 2020-09-19T23:44:15.483Z 
