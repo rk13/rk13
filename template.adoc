@@ -1,6 +1,7 @@
-Last updated: ${timestamp} image:https://github.com/rk13/rk13/workflows/Build%20README/badge.svg[Build README]
+Last updated: ${timestamp} image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
 
-${bio}
+Coffee nerd. Problem solver. Open Source Java enthusiast.
+Current occupation: Competence Lead & Senior Software Engineer at Klarna
 
 ## Recent blog posts
 

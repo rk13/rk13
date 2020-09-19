@@ -50,17 +50,6 @@ val template = Configuration(Configuration.VERSION_2_3_29)
         objectWrapper = Java8ObjectWrapper(this.incompatibleImprovements)
     }.getTemplate("template.adoc")
 
-val bio: String by lazy {
-    val extractBio = { body: String? ->
-        body as String
-    }
-
-    val request = Request.Builder()
-        .url("https://github.com/rk13/rk13.github.io/blob/master/about.md")
-
-    execute(request, extractBio)
-}
-
 val posts: List<Post> by lazy {
     fun String.toLocalDate(): LocalDate {
         val formatter = DateTimeFormatter.ofPattern("EEE, dd MMM yyyy HH:mm:ss Z", Locale.US)
@@ -70,8 +59,7 @@ val posts: List<Post> by lazy {
     fun NodeList.toPost() = Post(
         item(5).textContent.toLocalDate(),
         item(1).textContent,
-        item(7).textContent,
-        StringEscapeUtils.unescapeHtml4(item(3).textContent)
+        item(7).textContent
     )
 
     val extractPosts = { body: String? ->
@@ -94,7 +82,6 @@ val posts: List<Post> by lazy {
 }
 
 val root = mapOf(
-    "bio" to bio,
     "posts" to posts,
     "timestamp" to System.getenv("TIMESTAMP")
 )
