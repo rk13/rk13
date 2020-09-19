@@ -11,5 +11,4 @@ Current occupation: Competence Lead & Senior Software Engineer at Klarna
 
 | ${(post.published).format('MMMM d, YYYY')}
 | ${post.link}[${post.title}^]
-| ${post.excerpt}[...]
 </#list>

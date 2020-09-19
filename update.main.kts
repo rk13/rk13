@@ -88,4 +88,4 @@ val root = mapOf(
 
 template.process(root, FileWriter("README.adoc"))
 
-data class Post(val published: LocalDate, val title: String, val link: String, val excerpt: String)
+data class Post(val published: LocalDate, val title: String, val link: String)
