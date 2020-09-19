@@ -69,7 +69,7 @@ val posts: List<Post> by lazy {
             .parse(ByteArrayInputStream(body?.toByteArray(Charsets.UTF_8)))
         val xpath = XPathFactory.newInstance().newXPath()
         val nodes = xpath.evaluate("/rss/channel/item", document, XPathConstants.NODESET) as NodeList
-        (0..2).map { nodes.item(it) }
+        (0..5).map { nodes.item(it) }
             .map { (it as Element).childNodes }
             .map { it.toPost() }
     }
