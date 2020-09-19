@@ -1,9 +1,4 @@
-## whoami
-
-Coffee nerd. Problem solver. Open Source Java enthusiast
-
-Competence Lead & Senior Software Engineer at Klarna
-
+image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
 ## recent blog posts
 
 [options="autowidth",cols=2,stripes=even]
@@ -15,4 +10,4 @@ Competence Lead & Senior Software Engineer at Klarna
 </#list>
 |===
 
-Last updated: ${timestamp} image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
+Last updated: ${timestamp}
