@@ -1,6 +1,4 @@
-image:https://github.com/rk13/rk13/workflows/Update%20README/badge.svg[Build README]
-
-### Recent blog posts
+Recent blog posts
 
 [options="autowidth",cols=2,stripes=even]
 |===
