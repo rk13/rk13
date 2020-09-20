@@ -82,8 +82,7 @@ val posts: List<Post> by lazy {
 }
 
 val root = mapOf(
-    "posts" to posts,
-    "timestamp" to System.getenv("TIMESTAMP")
+    "posts" to posts
 )
 
 template.process(root, FileWriter("README.adoc"))
