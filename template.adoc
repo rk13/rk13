@@ -1,4 +1,3 @@
-image:heading.png[heading]
 *Recent blog posts*
 
 [options="autowidth",cols=2,stripes=even]
