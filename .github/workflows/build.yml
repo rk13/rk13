@@ -43,7 +43,7 @@ jobs:
           git config --local user.name  "GitHub Action"
           git add .
           git status
-          git commit -m "Automatically update README.adoc"
+          git diff-index --quiet HEAD || git commit -m "Automatically update README.adoc"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
