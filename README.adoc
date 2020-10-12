@@ -7,7 +7,7 @@
 | http://rk13.github.io/2020/09/10/latvian-in-sweden.html[Latvian in Sweden^]
 
 | August 1, 2020
-| http://rk13.github.io/2020/08/01/flink-generic-kafka-deserializationdchema.html[Implementing GenericKafkaDeserializationSchema for Apache Flink^]
+| http://rk13.github.io/2020/08/01/flink-generic-kafka-deserializationdchema.html[On the crest of streams with Flink^]
 
 | May 1, 2020
 | http://rk13.github.io/2020/05/01/return-of-nexus4.html[Return of the Nexus 4^]
