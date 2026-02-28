@@ -1,23 +1,27 @@
+
 *Recent blog posts*
 
 [options="autowidth",cols=2,stripes=even]
 |===
 
+| October 9, 2024
+| https://blog.kotov.lv/2024/10/09/scaling-releases-inside-meta-www-release-operations.html[Scaling Releases: Inside Meta WWW Release Operations^]
+
 | September 10, 2020
-| http://rk13.github.io/2020/09/10/latvian-in-sweden.html[Latvian in Sweden^]
+| https://blog.kotov.lv/2020/09/10/latvian-in-sweden.html[Latvian in Sweden^]
 
 | August 1, 2020
-| http://rk13.github.io/2020/08/01/flink-generic-kafka-deserializationdchema.html[On the crest of streams with Flink^]
+| https://blog.kotov.lv/2020/08/01/flink-generic-kafka-deserializationdchema.html[On the crest of streams with Flink^]
 
 | May 1, 2020
-| http://rk13.github.io/2020/05/01/return-of-nexus4.html[Return of the Nexus 4^]
+| https://blog.kotov.lv/2020/05/01/return-of-nexus4.html[Return of the Nexus 4^]
 
 | April 5, 2020
-| http://rk13.github.io/2020/04/05/codejam.html[Google CodeJam 2020^]
+| https://blog.kotov.lv/2020/04/05/codejam.html[Google CodeJam 2020^]
 
 | February 20, 2020
-| http://rk13.github.io/2020/02/20/hashcode.html[Hashcode team competition 2020^]
+| https://blog.kotov.lv/2020/02/20/hashcode.html[Hashcode team competition 2020^]
 
 | November 30, 2019
-| http://rk13.github.io/2019/11/30/klarna-coderetreat.html[Coderetreat@Klarna^]
+| https://blog.kotov.lv/2019/11/30/klarna-coderetreat.html[Coderetreat@Klarna^]
 |===
