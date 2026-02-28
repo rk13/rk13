@@ -4,7 +4,7 @@
 |===
 <#list posts as post>
 
-| ${(post.published).format('MMMM d, YYYY')}
+| ${(post.published).format('MMMM d, yyyy')}
 | ${post.link}[${post.title}^]
 </#list>
 |===
