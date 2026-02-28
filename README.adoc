@@ -1,16 +1,5 @@
 ....
   .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .
-
-            __  ________
-      _____/ /_<  /__  /
-     / ___/ //_/ / /_ <
-    / /  / ,< / /___/ /
-   /_/  /_/|_/_//____/
-
-        Asynchronous Inputs
-          blog.kotov.lv
-
-  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .
 ....
 
 _Software engineering, distributed systems, and beyond._
