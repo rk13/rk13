@@ -1,6 +1,3 @@
-....
-  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .
-....
 
 _Software engineering, distributed systems, and beyond._
 
