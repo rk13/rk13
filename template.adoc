@@ -1,4 +1,25 @@
-*Recent blog posts*
+....
+  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .
+
+            __  ________
+      _____/ /_<  /__  /
+     / ___/ //_/ / /_ <
+    / /  / ,< / /___/ /
+   /_/  /_/|_/_//____/
+
+        Asynchronous Inputs
+          blog.kotov.lv
+
+  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .  ~>  .
+....
+
+_Software engineering, distributed systems, and beyond._
+
+https://blog.kotov.lv[Blog^] | https://blog.kotov.lv/talks/[Talks^] | https://blog.kotov.lv/contributions/[Open Source^] | https://github.com/rk13[GitHub^]
+
+'''
+
+==== Recent blog posts
 
 [options="autowidth",cols=2,stripes=even]
 |===
